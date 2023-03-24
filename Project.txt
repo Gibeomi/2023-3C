@@ -1,11 +1,20 @@
 동서울대 네트워크 설계 제안서 지원 팀구성
+
 -프로젝트 팀 구성
 
-총 책임자 - Net architecuture - Arch(main, master)
-네트워크 엔지니어(L2 이상.. switch, router, server) - engineer
+main or master
+총 책임자 - Net architecuture - Arch
+
+enginner
+네트워크 엔지니어(L2 이상.. switch, router, server)
 -> L2, L3 프로토콜
+
+Layer1
 네트워크 배치 세팅(L1) - Layer1
+->실제 네트워크 세팅
 
-확인 - github site
+- github site
 
-제안서 팀 구성
+제안서 팀구성
+
+enginner write
